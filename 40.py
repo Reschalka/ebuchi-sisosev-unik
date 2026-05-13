@@ -1,0 +1,1 @@
+print(sorted(sorted.__doc__.split(), key=len, reverse=True))
